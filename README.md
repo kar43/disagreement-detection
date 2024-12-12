@@ -1,4 +1,4 @@
-# News Disagreement Detection: Aligning facts and feelings with hierarchical multitask learning
+# Hierarchical Multitask Learning for Detecting News Content and Emotion Disagreements
 
  This project addresses the issue of automated news disagreement detection by introducing a method to compare texts for alignment or divergence. 
  The approach allows to compare news contents from different sources, aligning titles with article content, and identifying fake news through 
