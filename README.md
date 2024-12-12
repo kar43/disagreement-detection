@@ -6,6 +6,8 @@
  To address the complexity of news analysis, the project presents NewsDNet, a hierarchical multitask learning model that simultaneously detects 
  content and emotion disagreements. Content disagreement detection focuses on factual discrepancies, while emotion disagreement detection adds 
  a layer of understanding by considering emotional tones.
-
-![mt_model_two_tasks drawio](https://github.com/user-attachments/assets/d10eef7f-6283-4b7b-a1fd-bd2c80d91e9a)
+<br/><br/>
+<p align="center">
+<a href="url"><img src="https://github.com/user-attachments/assets/594bbd91-89aa-4353-b701-dfe350283e8b" height="800"></a>
+</p>
 
